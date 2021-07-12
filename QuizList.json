@@ -1,0 +1,182 @@
+{
+    "QuizList": [
+        {
+            "data": {
+                "name": "Matematika",
+                "description": "Quiz Matematika",
+                "author": "Mati Tanam"
+            },
+            "questions": [
+                {
+                    "question": "100 + 120",
+                    "answer": "220"
+                },
+                {
+                    "question": "250 + 1050",
+                    "answer": "1300"
+                },
+                {
+                    "question": "0 x 100",
+                    "answer": "0"
+                },
+                {
+                    "question": "50 x 2",
+                    "answer": "100"
+                },
+                {
+                    "question": "1000 + 105",
+                    "answer": "1105"
+                },
+                {
+                    "question": "500 x 2",
+                    "answer": "1000"
+                },
+                {
+                    "question": "2 x 15",
+                    "answer": "30"
+                },
+                {
+                    "question": "10 x 15",
+                    "answer": "150"
+                },
+                {
+                    "question": "120 - 15",
+                    "answer": "105"
+                },
+                {
+                    "question": "1005 - 150",
+                    "answer": "855"
+                },
+                {
+                    "question": "120 / 6",
+                    "answer": "20"
+                },
+                {
+                    "question": "10 x 5",
+                    "answer": "50"
+                },
+                {
+                    "question": "500 / 25",
+                    "answer": "20"
+                },
+                {
+                    "question": "1 + 1 x 2",
+                    "answer": "3"
+                },
+                {
+                    "question": "50 + 20 x 100",
+                    "answer": "2050"
+                },
+                {
+                    "question": "25 / 2 x 10",
+                    "answer": "125"
+                },
+                {
+                    "question": "120 + 50 x 2",
+                    "answer": "220"
+                },
+                {
+                    "question": "50 x 2 + 1",
+                    "answer": "101"
+                },
+                {
+                    "question": "50 - 10 x 2",
+                    "answer": "30"
+                },
+                {
+                    "question": "50 - 10 x 4",
+                    "answer": "10"
+                }
+            ]
+        },
+        {
+            "data": {
+                "name": "Tata Surya",
+                "description": "Quiz Tentang Tata Surya",
+                "author": "EmangGek"
+            },
+            "questions": [
+                {
+                    "question": "Diagram?",
+                    "answer": "merkurius"
+                },
+                {
+                    "question": "Planet apa yang terjauh dari matahari?",
+                    "answer": "neptunus"
+                },
+                {
+                    "question": "Planet apa yang terkecil di Tata Surya",
+                    "answer": "merkurius"
+                },
+                {
+                    "question": "Planet apa yang terbesar di Tata Surya",
+                    "answer": "jupiter"
+                },
+                {
+                    "question": "Planet apa yang terpanas di Tata Surya",
+                    "answer": "venus"
+                },
+                {
+                    "question": "Planet apa yang terdingin di Tata Surya",
+                    "answer": "neptunus"
+                },
+                {
+                    "question": "Planet apa yang disebut juga \"Bintang Senja\"",
+                    "answer": "venus"
+                },
+                {
+                    "question": "Planet apa yang disebut juga \"Bintang Fajar\"",
+                    "answer": "venus"
+                },
+                {
+                    "question": "Di Planet apa kita tinggal?",
+                    "answer": "bumi"
+                },
+                {
+                    "question": "Planet apa yang disebut juga \"Planet Merah\"",
+                    "answer": "mars"
+                },
+                {
+                    "question": "Planet apa yang memiliki cincin paling terlihat",
+                    "answer": "saturnus"
+                },
+                {
+                    "question": "Planet apa yang terletak setelah Uranus",
+                    "answer": "neptunus"
+                },
+                {
+                    "question": "Merkurius, Venus, Bumi, dan Mars termasuk planet ...",
+                    "answer": "dalam"
+                },
+                {
+                    "question": "Jupiter, Saturnus, Uranus, dan Neptunus termasuk planet ...",
+                    "answer": "luar"
+                },
+                {
+                    "question": "Planet Dalam dan Planet Luar dipisahkan oleh sabuk ...",
+                    "answer": "asteroid"
+                },
+                {
+                    "question": "Planet pertama adalah planet ...",
+                    "answer": "merkurius"
+                },
+                {
+                    "question": "Planet kedua adalah planet ...",
+                    "answer": "venus"
+                },
+                {
+                    "question": "Planet ketiga adalah planet ...",
+                    "answer": "bumi"
+                },
+                {
+                    "question": "Planet keempat adalah planet ...",
+                    "answer": "mars"
+                },
+                {
+                    "question": "Planet kelima adalah planet ...",
+                    "answer": "jupiter"
+                }
+            ]
+        }
+    ]
+}
